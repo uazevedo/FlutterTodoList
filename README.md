@@ -1,4 +1,4 @@
-# teste
+# Teste Flutter with Vertical Slice + Clean Architecture
 
 A new Flutter project.
 
